@@ -3,8 +3,8 @@
 Witaj w świecie Embryon Tenebtarum. 
 
 ## Kontynenty
-[[Apsestas]]
-[[Laukinis]]
-[[Acusdad]]
+[Apsestas](Apsestas.md)
+[Laukinis](Laukinis.md)
+[Acusdad](Acusdad.md)
 ## Historia
 ## Frakcje
